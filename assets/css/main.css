@@ -318,6 +318,17 @@ h6 {
   list-style: none;
 }
 
+.pb-60px{
+  padding-bottom: 60px;
+}
+
+.pt-unset-imp{
+  padding-top: unset !important;
+}
+
+.pt-60px{
+  padding-top: 60px !important;
+}
 p {
   font-family: var(--tg-body-font-family);
   font-size: var(--tg-body-font-size);
